@@ -1,5 +1,7 @@
-# aimer-place
+# Aimer
 
-> This is a placeholder for the Aimer project. 
+> The placeholder for the Aimer project
 > 
-> Looking forward to seeing you there!
+> ⚠️ Since the project is still in development,
+> 
+> Consider visit here for more detail [Aimer-Project](https://github.com/Cottons29/aimer)
